@@ -1,0 +1,37 @@
+{
+  "name": "saas-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/plots": "^2.3.2",
+    "@reduxjs/toolkit": "^2.2.7",
+    "@supabase/supabase-js": "^2.45.4",
+    "antd": "^5.21.2",
+    "axios": "^1.7.7",
+    "chart.js": "^4.4.5",
+    "moment": "^2.30.1",
+    "next": "14.2.14",
+    "next-redux-wrapper": "^8.1.0",
+    "react": "^18",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-redux": "^9.1.2",
+    "redux": "^5.0.1",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.14",
+    "typescript": "^5"
+  }
+}

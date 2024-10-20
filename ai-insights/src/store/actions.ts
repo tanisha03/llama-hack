@@ -1,0 +1,4 @@
+export const ACTIONS = {
+  SET_CAMPAIGNS: 'SET_CAMPAIGNS',
+  SET_OFFERS: 'SET_OFFERS',
+};
